@@ -1,0 +1,9 @@
+pathlib
+python-dotenv
+PyJWT
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+psycopg2-binary
+Werkzeug
+
